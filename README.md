@@ -1,120 +1,279 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>MHD BADSHA</strong>
-</h1>
-
-<h3>Full Stack Developer | MERN • Python • Flutter • Ethical hacker </h3>
-
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:support@droxkerala.info"><img src="https://img.shields.io/badge/📧_support@droxkerala.info-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://dev.to/badhux">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://discord.com/users/AUSTINPLUXURY">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/blackice-x">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/mhd.badhu?igsh=NTQ3eWRiMXlkdnAw">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/muhammad-badsha-2732202a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/badhuxx">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/@DROXKERALA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
-
-
-## 🛠️ Skills
+<!-- ANIMATED WAVING HEADER (small text) -->
 <p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
-</td>
-
-
-
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
-</td>
-</tr>
-</table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,30,32&height=140&section=header&text=Blackyyy&fontSize=30&fontColor=00D4FF&animation=fadeIn&fontAlignY=40&desc=MHD%20BADSHA&descSize=14&descColor=E2E8F0&descAlignY=62" width="100%" alt="Blackyyy Header" />
 </p>
 
+<!-- ANIMATED TYPING HEADER (small text, cycles through lines) -->
+<p align="center">
+  <a href="https://github.com/Blackyyy">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9A%A1+Welcome+to+Blackyyy%27s+Digital+Fortress+%E2%9A%A1;%F0%9F%94%90+Cybersecurity+Analyst+%7C+Ethical+Hacker+%F0%9F%94%90;%F0%9F%8E%AF+Bug+Bounty+Hunter+%7C+Pentester+%F0%9F%8E%AF;%F0%9F%92%80+Turning+Vulnerabilities+Into+Knowledge+%F0%9F%92%80;%F0%9F%9B%A1%EF%B8%8F+Securing+the+Digital+World+%F0%9F%9B%A1%EF%B8%8F;%F0%9F%91%91+MHD+BADSHA+%F0%9F%91%91" alt="Typing SVG" />
+  </a>
+</p>
 
+<!-- PROFILE GIF -->
+<p align="center">
+  <img src="./PROFILE2.gif" width="100%" alt="Blackyyy Profile Banner" />
+</p>
 
+<!-- PROFILE BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Blackyyy&label=PROFILE+VIEWS&color=00D4FF&style=flat-square&logo=github" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Blackyyy?label=FOLLOWERS&logo=github&color=A855F7&style=flat-square" alt="Followers" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Blackyyy?label=TOTAL+STARS&logo=github&color=00D4FF&style=flat-square" alt="Stars" />
+</p>
 
+<!-- PREMIUM DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
+<!-- ============================ PROFILE ============================ -->
 
-## 📊 GitHub Stats
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+  <samp>&nbsp;HACKER PROFILE&nbsp;</samp>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+</h2>
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+
+```
+╭─ blackyyy@kali ─────────────────────────
+│
+│  Name    : MHD BADSHA
+│  Alias   : Blackyyy
+│  Role    : Cybersecurity Analyst
+│  Mission : Ethical Hacking & Bug Bounty
+│  Status  : Online & Hunting
+│  OS      : Kali Linux / Parrot OS
+│  Shell   : zsh / bash
+│  Editor  : vim / VS Code
+│
+╰─────────────────────────────────────────
+```
+
 </div>
 
----
+<br/>
 
-## ❤️ Support Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<!-- ============================ TECH ARSENAL ============================ -->
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
+  <samp>&nbsp;TECH ARSENAL&nbsp;</samp>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
+</h2>
+
+<h3 align="center">⚔️ Offensive Security & Pentesting</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logo=databricks&logoColor=white" alt="SQLMap" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Hashcat-5C2D91?style=flat-square&logo=hackthebox&logoColor=white" alt="Hashcat" />
+  <img src="https://img.shields.io/badge/John_The_Ripper-CC0000?style=flat-square&logo=hackthebox&logoColor=white" alt="John" />
+</p>
+
+<h3 align="center">💻 Languages & Scripting</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" alt="Perl" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
+
+<h3 align="center">🌐 Web, Cloud & Infrastructure</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+
+<h3 align="center">🔧 Tools & Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" />
+</p>
+
+<br/>
+
+<!-- SKILL ICONS ROW -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,php,bash,linux,docker,aws,git,github,mongodb,mysql,postgres,vscode,vim,kali&theme=dark&perline=9" alt="Skills" />
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<!-- ============================ GITHUB STATS ============================ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28" />
+  <samp>&nbsp;GITHUB STATS DASHBOARD&nbsp;</samp>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28" />
+</h2>
+
+<!-- Streak Stats -->
+<p align="center">
+  <a href="https://github.com/Blackyyy">
+    <img width="70%" src="https://streak-stats.demolab.com?user=Blackyyy&theme=highcontrast&hide_border=true&border_radius=15&background=0D1117&ring=00D4FF&fire=A855F7&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&stroke=00D4FF40" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- GitHub Stats & Top Languages -->
+<p align="center">
+  <a href="https://github.com/Blackyyy">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Blackyyy&show_icons=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D4FF&icon_color=A855F7&text_color=E2E8F0&ring_color=00D4FF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Blackyyy">
+    <img width="41%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Blackyyy&layout=compact&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D4FF&text_color=E2E8F0&langs_count=10" alt="Top Languages" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<!-- ============================ CONTRIBUTION SNAKE ============================ -->
+
+<h2 align="center">
+  <samp>&nbsp;🐍 CONTRIBUTION SNAKE 🐍&nbsp;</samp>
+</h2>
+
+<!-- NOTE: needs a repo named "Blackyyy" with the snake workflow pushing to the "output" branch -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blackyyy/Blackyyy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blackyyy/Blackyyy/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Blackyyy/Blackyyy/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<!-- ============================ CONTRIBUTION CALENDAR ============================ -->
+
+<h2 align="center">
+  <samp>&nbsp;📈 CONTRIBUTION CALENDAR 📈&nbsp;</samp>
+</h2>
+
+<!-- NOTE: requires the 3D Contribution Graph workflow to have run at least once -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<!-- ============================ FEATURED PROJECTS ============================ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
+  <samp>&nbsp;FEATURED PROJECTS&nbsp;</samp>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
+</h2>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/blackicex">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  <a href="https://github.com/Blackyyy/hexmind">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Blackyyy&repo=hexmind&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D4FF&icon_color=A855F7&text_color=E2E8F0" alt="Pentesting Toolkit" />
   </a>
+  <a href="https://github.com/Blackyyy/inshackle-bot">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Blackyyy&repo=inshackle-bot&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D4FF&icon_color=A855F7&text_color=E2E8F0" alt="Inshackle Bot" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Blackyyy/IG-blaster">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Blackyyy&repo=IG-blaster&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D4FF&icon_color=A855F7&text_color=E2E8F0" alt="IG Blaster" />
+  </a>
+  <a href="https://github.com/Blackyyy/choicebot">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Blackyyy&repo=choicebot&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D4FF&icon_color=A855F7&text_color=E2E8F0" alt="Choice Bot" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<!-- ============================ ACTIVITY GRAPH ============================ -->
+
+<h2 align="center">
+  <samp>&nbsp;📉 ACTIVITY GRAPH 📉&nbsp;</samp>
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blackyyy&bg_color=0D1117&color=00D4FF&line=A855F7&point=FFFFFF&area_color=00D4FF&area=true&hide_border=true&custom_title=Blackyyy%27s%20Contribution%20Graph&radius=16" alt="Activity Graph" width="100%" />
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<!-- ============================ CONNECT ============================ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" />
+  <samp>&nbsp;CONNECT WITH ME&nbsp;</samp>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" />
+</h2>
+
+<p align="center">
+  <a href="https://github.com/Blackyyy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- TODO: replace the link below with your real website when you have one -->
+  <a href="https://github.com/Blackyyy">
+    <img src="https://img.shields.io/badge/Website-MHD_BADSHA-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/Blackyyy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/Blackyyy">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <!-- TODO: replace YOUR_INSTAGRAM_ID with your real Instagram username -->
+  <a href="https://instagram.com/YOUR_INSTAGRAM_ID">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://tryhackme.com/p/Blackyyy">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://app.hackthebox.com/profile/Blackyyy">
+    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<!-- ============================ FOOTER ============================ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,30,32&height=140&section=footer&text=Blackyyy&fontSize=28&fontColor=00D4FF&animation=twinkling&fontAlignY=62&desc=MHD%20BADSHA%20%7C%20Securing%20the%20Digital%20World&descSize=13&descColor=E2E8F0&descAlignY=82" width="100%" alt="Footer" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with-💚_by_MHD_BADSHA-00D4FF?style=for-the-badge" alt="Made with love" />
 </p>
