@@ -115,13 +115,13 @@
 <p align="center">
   <a href="https://github.com/Blackyyy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <!-- TODO: put your real website here -->
-  <a href="https://github.com/Blackyyy"><img src="https://img.shields.io/badge/Website-MHD_BADSHA-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://linkedin.com/in/Blackyyy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/Blackyyy"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://github.com/blackice-x/blackice-x"><img src="https://img.shields.io/badge/Website-MHD_BADSHA-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-badsha-2732202a7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/badhuxx"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <!-- TODO: replace YOUR_INSTAGRAM_ID -->
-  <a href="https://instagram.com/YOUR_INSTAGRAM_ID"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://tryhackme.com/p/Blackyyy"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="https://app.hackthebox.com/profile/Blackyyy"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" /></a>
+  <a href="https://www.instagram.com/ft.badhuu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tryhackme.com/p/cyberlabss"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://profile.hackthebox.com/profile/01a120ea-9aaa-73cb-a8c5-356dc5800fdd?utm_medium=copy_url"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" /></a>
 </p>
 
 <p align="center">
