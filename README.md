@@ -65,14 +65,6 @@
 <!-- ───────────── CONTRIBUTIONS ───────────── -->
 <p align="center"><img src="assets/title-contrib.svg" width="100%" alt="Contributions" /></p>
 
-<!-- Snake: needs .github/workflows/snake.yml to run once (creates the "output" branch) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blackyyy/Blackyyy/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blackyyy/Blackyyy/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Blackyyy/Blackyyy/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</p>
 
 <!-- 3D calendar: needs .github/workflows/profile-3d.yml to run once -->
 <p align="center">
@@ -82,29 +74,6 @@
 <!-- Live graph: works instantly, no workflow needed -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blackyyy&bg_color=0D1117&color=00D4FF&line=A855F7&point=FFFFFF&area_color=00D4FF&area=true&hide_border=true&custom_title=Blackyyy%27s%20Contribution%20Graph&radius=16" alt="Activity Graph" width="100%" />
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-<!-- ───────────── PROJECTS ───────────── -->
-<p align="center"><img src="assets/title-projects.svg" width="100%" alt="Featured Projects" /></p>
-
-<p align="center">
-  <a href="https://github.com/Blackyyy/hexmind">
-    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Blackyyy&repo=hexmind&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D4FF&icon_color=A855F7&text_color=E2E8F0" alt="hexmind" />
-  </a>
-  <a href="https://github.com/Blackyyy/inshackle-bot">
-    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Blackyyy&repo=inshackle-bot&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D4FF&icon_color=A855F7&text_color=E2E8F0" alt="inshackle-bot" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Blackyyy/IG-blaster">
-    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Blackyyy&repo=IG-blaster&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D4FF&icon_color=A855F7&text_color=E2E8F0" alt="IG-blaster" />
-  </a>
-  <a href="https://github.com/Blackyyy/choicebot">
-    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Blackyyy&repo=choicebot&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D4FF&icon_color=A855F7&text_color=E2E8F0" alt="choicebot" />
-  </a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
